@@ -132,7 +132,7 @@ else:
 
 setup_requires = [
     'persistent >= 4.1.0',
-    'zope.proxy >= 4.1.5',
+    'zope.proxy',
 ]
 
 
